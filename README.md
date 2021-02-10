@@ -32,16 +32,7 @@ __请勿删除作者署名,违反必究__
 
 __数据丢失恕不负责!!!__
 
-## Todo
-- [ ] 支持linux环境
-- [ ] 验证支付宝支付系统的可用性
-- [√] 加固逻辑校验
-- [ ] 语言国际化
-
-## 有问题反馈
+## 联系作者
  *   [Blog](https://www.7gugu.com)[博客有图可供预览]
  *   Email:gz_7gugu@outlook.com [只支持部分技术解答]
 
-## 赞助
-希望有能力的dalao们能赞助支持下OTZ<br>
-<img src="https://www.7gugu.com/wp-content/uploads/2018/11/微信图片_20181111230927.jpg" alt="支付宝赞助图片"/>
